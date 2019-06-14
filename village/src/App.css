@@ -1,3 +1,21 @@
 .App {
   text-align: center;
 }
+
+.selectedLink {
+  text-decoration: none;
+  color: black;
+  background: aqua;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #80808045;
+  padding: 20px;
+}
+.NavLink {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
