@@ -30,16 +30,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain the differences between `client-side routing` and `server-side routing`.
 
-client side refreshes server side doesnt
+client side doesnt server side refreshes
 
 
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
-get
+post put delete
 
 - [ ] Mention three tools we can use to make AJAX requests.
 
-post put delete
+fetch axios  ajax
 
 ## Project Set Up
 
